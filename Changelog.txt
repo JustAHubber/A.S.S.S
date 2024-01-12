@@ -1,0 +1,1 @@
+1.0 is released in an extremely rushed state. The player can lose, win, and love life.
