@@ -1,1 +1,13 @@
 1.0 is released in an extremely rushed state. The player can lose, win, and love life.
+
+1.69 is the full, complete, and probably final release of A.S.S.S
+  • Added Roadman event
+  • Added Daisy Boss event
+  • Added more event triggers
+  • Added super speed Cheat Code: "8008135" - Very unreliable
+  • Fixed Protester Speed
+  • Fixed Canvas Scaling in Main Menu and Main Game
+  • Changed Chance of events
+    • Alien Invasion is now 1/15
+    • Protester / Roadman are now the most common events
+    • Daisy / Timed events are now slightly rarer
